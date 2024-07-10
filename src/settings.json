@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Dive into a world of bio-adventures, riveting narratives, and endless entertainment tailored just for you.",
+        "title": "Experience Live-Crafted Streaming with Hulu"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world of bio-adventures, riveting narratives, and endless entertainment tailored just for you.",
+        "title": "Experience Live-Crafted Streaming with Hulu"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into a world of bio-adventures, riveting narratives, and endless entertainment tailored just for you.",
+        "title": "Experience Live-Crafted Streaming with Hulu"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into a world of bio-adventures, riveting narratives, and endless entertainment tailored just for you.",
+        "title": "Experience Live-Crafted Streaming with Hulu"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world of bio-adventures, riveting narratives, and endless entertainment tailored just for you.",
+        "title": "Experience Live-Crafted Streaming with Hulu"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into a world of bio-adventures, riveting narratives, and endless entertainment tailored just for you.",
+        "title": "Experience Live-Crafted Streaming with Hulu"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into a world of bio-adventures, riveting narratives, and endless entertainment tailored just for you.",
+        "title": "Experience Live-Crafted Streaming with Hulu"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world of bio-adventures, riveting narratives, and endless entertainment tailored just for you.",
+        "title": "Experience Live-Crafted Streaming with Hulu"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Experience Live-Crafted Streaming with Hulu",
+  "subtitle": "Dive into a world of bio-adventures, riveting narratives, and endless entertainment tailored just for you."
+}
